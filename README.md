@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! My name is Tyler Gustafson. I am currently in education for a Web and Software Development Associate's Degree, and intend to go for my Bachelor's in Computer Science afterwards.
+## In general, I have worked with computers my whole life and am very comfortable tinkering with all sorts of software and code. Pursuing this as a career is long overdue for me, and I have been thoroughly enjoying learning more about it.
+## My focus right now as an individual is on back-end development, even though the program I am in does feature a good amount of front-end development. In time, I forsee myself working in back-end development while using my free time to enjoy other pursuits related to my particular skillset. 
+##
+## On the topic of pursuits: I have many passions, the primary of which is my interest in video games and video game design. In my personal time I have begun learning Lua scripting in order to assist in the development of certain open-source plugins for one of the games I enjoy the most (Path of Exile). I also have a number of game ideas I would like to pursue and have begun learning the basics of using Godot game engine.
+## Additionally, I have lots of experience in using various DAW's and video editors - with my favorites being FL Studio and Davinci Resolve. This is due to my long-term history as a musician, having played many instruments for around 25 years. 
 
 <!--
 **TGustafson1/TGustafson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
